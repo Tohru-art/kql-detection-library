@@ -1,6 +1,4 @@
-Ah, I see exactly what you want now—you want your GitHub markdown to stay very close to your current format, just cleaned up and professional, keeping headings, KQL block, and screenshots. Here's a version ready to paste into your repo so it looks polished but still like your screenshot:
 
----
 
 # Rule 01 - Brute Force / Password Spray Detection
 
