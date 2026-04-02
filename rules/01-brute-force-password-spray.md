@@ -48,6 +48,14 @@ SigninLogs
 
 ## Threat Investigation — Live Environment
 
+### Detection query results
+![Detection Results](../screenshots/rule01-detection.png)
+
+### Drill-down investigation
+![Investigation](../screenshots/rule01-investigation.png)
+
+During hands-on testing in the Log(N) Pacific cyber range (April 1, 2026)...
+
 During hands-on testing in the Log(N) Pacific cyber range (April 1, 2026),
 rule 01 surfaced account `cdeb4c73...@lognpacific.com` with 23 failed
 attempts across 3 IPs over a 45-minute window.
