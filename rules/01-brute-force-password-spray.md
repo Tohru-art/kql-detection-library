@@ -1,4 +1,4 @@
-# Rule 01 — Brute Force / Password Spray Detection
+# Rule 01 - Brute Force / Password Spray Detection
 
 ## What it detects
 An account receiving 10+ failed sign-ins within a 10-minute window. Flags accounts hit from multiple IPs as a spray indicator.
